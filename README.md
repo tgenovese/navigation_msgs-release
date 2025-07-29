@@ -1,3 +1,26 @@
+## navigation_msgs (jazzy) - 2.4.1-3
+
+The packages in the `navigation_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --override-release-repository-push-url git@github.com:tgenovese/navigation_msgs-release.git navigation_msgs` on `Tue, 29 Jul 2025 13:15:19 -0000`
+
+The `map_msgs` package was released.
+
+Version of package(s) in repository `navigation_msgs`:
+
+- upstream repository: https://github.com/ros-planning/navigation_msgs
+- release repository: https://github.com/tgenovese/navigation_msgs-release.git
+- rosdistro version: `2.4.1-2`
+- old version: `2.4.1-2`
+- new version: `2.4.1-3`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## navigation_msgs (rolling) - 2.6.0-1
 
 The packages in the `navigation_msgs` repository were released into the `rolling` distro by running `/home/cottsay/infra_ws/install/bloom/bin/bloom-release navigation_msgs -r rolling` on `Mon, 28 Apr 2025 19:23:28 -0000`
